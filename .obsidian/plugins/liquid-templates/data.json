@@ -1,0 +1,7 @@
+{
+  "templatesFolder": "Modelos",
+  "excludeFolders": "",
+  "dateFormat": "yyyy-MM-dd",
+  "timeFormat": "k:m",
+  "autocompleteTrigger": "::"
+}

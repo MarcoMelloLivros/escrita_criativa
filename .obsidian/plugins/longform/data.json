@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "Livro/Meu Destino/Index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2025-08-01T09:25:32.495Z",
+      "total": 0,
+      "drafts": {
+        "Livro/Meu Destino/Index.md": {
+          "total": 0,
+          "scenes": {
+            "1 O Início": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-07-31T08:13:16.616Z",
+      "total": 0,
+      "drafts": {
+        "Livro/Meu Destino/Index.md": {
+          "total": 0,
+          "scenes": {
+            "1 O Início": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-07-30T12:09:48.702Z",
+      "total": 0,
+      "drafts": {
+        "Livro/Meu Destino/Index.md": {
+          "total": 0,
+          "scenes": {
+            "1 O Início": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-07-29T12:45:52.341Z",
+      "total": 55,
+      "drafts": {
+        "Livro/Meu Destino/Index.md": {
+          "total": 55,
+          "scenes": {
+            "1 O Início": 55
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-07-28T12:49:45.822Z",
+      "total": 0,
+      "drafts": {
+        "Projeto Longform/Meu primeiro livro/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Livro/Meu Destino/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-07-27T00:31:56.008Z",
+      "total": 0,
+      "drafts": {
+        "Projeto Longform/Meu primeiro livro/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": true,
+  "sceneTemplate": "Modelos/Scene.md",
+  "waitForSync": false,
+  "fallbackWaitEnabled": true,
+  "fallbackWaitTime": 5,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}

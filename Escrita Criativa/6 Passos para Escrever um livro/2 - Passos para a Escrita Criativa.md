@@ -1,0 +1,5 @@
+- [ ] 1. **O Despejo**: Escrever tudo o que vier à cabeça sobre o tema, sem filtro ou julgamento.
+- [ ] 2. **A Mineração**: Reler o que foi escrito e procurar por "gemas": ideias, frases e palavras-chave que se destacam.
+- [ ] 3. **A Estruturação**: Organizar as "gemas" coletadas, criando um esboço, um mapa mental ou outra forma de estrutura para o texto.
+- [ ] 4. **A Redação Focada**: Escrever o texto seguindo a estrutura definida, com o objetivo de desenvolver as ideias de forma coesa.
+- [ ] 5. **A Lapidação**: Realizar a fase de revisão e edição para cortar excessos, melhorar o fluxo e dar brilho ao texto final.

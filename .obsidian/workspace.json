@@ -1,0 +1,292 @@
+{
+  "main": {
+    "id": "ae1fb6f4531e1deb",
+    "type": "split",
+    "children": [
+      {
+        "id": "228775705b317e92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd517be4048dc1d1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5191159385ec6f01",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6a3db80e946ade4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6a26b7f74510549",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "d6578b6946795b3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"Escrita Criativa/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "6bdf3c95df747bd1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "a16204489ed08a3b",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          },
+          {
+            "id": "f783d4f27a4f6687",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "Gemini Scribe"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 404.5
+  },
+  "right": {
+    "id": "1770d9d0eb63dbef",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8f3dc0db05e1434",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc8cf0b8b1dbc715",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5c8f40050916c470",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
+            }
+          },
+          {
+            "id": "846501f47dd6bb5d",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "ed481d091b8fd3f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Planner/2025-07-31 17-57 - hoje é dia.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 2025-07-31 17-57 - hoje é dia"
+            }
+          },
+          {
+            "id": "484bfd509cc50d4e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "5dbc88a9545bde1a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "d759463c6d41a773",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b549441791618f73",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "zk-prefixer:Criar nova nota única": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "obsidian-spaced-repetition:Revisar flashcards": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "gemini-scribe:Open Gemini Chat": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "dd517be4048dc1d1",
+  "lastOpenFiles": [
+    "Planner/2025-08-01 06-40 - Primeiro dia de Agosto de 2025.md",
+    "Tarefas/2025-08-01 06-32 - Testando tarefa.md",
+    "Tarefas/2025-08-01 06-38 - testando-task.md",
+    "Modelos/2-Nova Tarefa.md",
+    "Modelos/0-Nota.md",
+    "image-2.jpeg",
+    "2025-07-31 17-48 - testando plugins.md",
+    "Tarefas",
+    "Planner/2025-07-31 17-57 - hoje é dia.md",
+    "Modelos/01- Diario.md",
+    "Planner/2025-07-31 17-52 - teste.md",
+    "Modelos/1-Chapter.md",
+    "Modelos/1-Cenario.md",
+    "Planner",
+    "2025-07-31 17-41 - test Note.md",
+    "2025-07-31 17-38 - teste nota zettel.md",
+    "teste nota.md",
+    "Modelos/2 - Financeiro.md",
+    "gemini-scribe/History/Modelos_2 - Financeiro.md",
+    "README.md",
+    "admonitions.json",
+    "image.jpeg",
+    "image-3.jpeg",
+    "image-1.jpeg",
+    "Modelos/book.md",
+    "Escrita Criativa/6 Passos para Escrever um livro/Checklist de GATILHOS MENTAIS AS ARMAS DA PERSUASÃO.md",
+    "Sites/O Que é Autopublicação_ Um Guia Prático.md",
+    "Escrita Criativa/6 Passos para Escrever um livro/Checklist do livro Manual de Persuasão do FBI.md",
+    "gemini-scribe/History/Escrita Criativa_Transcrições_Transcrição - Manual de Persuasão do FBI Os segredos para Persuadir, Convencer e Manipular.md",
+    "gemini-scribe/History/Escrita Criativa_Transcrições_Transcrição - GATILHOS MENTAIS AS ARMAS DA PERSUASÃO.md",
+    "Escrita Criativa/Transcrições/Transcrição - Manual de Persuasão do FBI Os segredos para Persuadir, Convencer e Manipular.md",
+    "Escrita Criativa/Transcrições/Transcrição - 10 técnicas de STORYTELLING para ser o melhor contador de HISTÓRIAS do mundo.md",
+    "Escrita Criativa/6 Passos para Escrever um livro/6 - 10 técnicas de STORYTELLING para ser o melhor contador de HISTÓRIAS do mundo.md",
+    "Escrita Criativa/Ebook Roteirizando - Gabriel Herdy.pdf",
+    "Escrita Criativa/Como aprender a escrever bem_ Dicas de Stephen King - Blog Bibliomundi.pdf",
+    "Sites/O Estrangulador - Sidney Sheldon.mobi",
+    "O Estrangulador - Sidney Sheldon.mobi",
+    "O Fantasma Da Meia-Noite - Sidney Sheldon.mobi",
+    "ignore/unsecuredSegredos-do-Best-Seller-Combo-Romancista-Eldes-Saullo.pdf",
+    "ignore/unsecuredO-FABULOSO-PLANEJADOR-DE-FICCAO-V2.pdf",
+    "Sem título.canvas"
+  ]
+}

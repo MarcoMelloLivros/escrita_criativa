@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiAlbum",
+      "LiAlignJustify",
+      "LiActivity",
+      "LiAmphora",
+      "LiAirplay"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Modelos": "LiAmphora",
+  "Modelos/1-Chapter.md": "LiAirplay",
+  "Modelos/0-Nota.md": "LiAlignCenter",
+  "Livro": {
+    "iconName": "LiAlbum",
+    "iconColor": "#6499dd"
+  },
+  "gemini-scribe": "LiAlignJustify",
+  "Modelos/1-Cenario.md": "LiAirplay",
+  "Modelos/1-Personagem.md": "LiAirplay",
+  "Modelos/1-Linha do Tempo.md": "LiAirplay"
+}

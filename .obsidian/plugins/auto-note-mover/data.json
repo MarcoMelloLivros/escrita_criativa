@@ -1,0 +1,33 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": true,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "Livro/Meu Destino/chapters",
+      "tag": "#📚/chapter",
+      "pattern": ""
+    },
+    {
+      "folder": "Livro/Meu Destino/cenarios",
+      "tag": "#🗺️/cenario",
+      "pattern": ""
+    },
+    {
+      "folder": "Livro/Meu Destino/personagens",
+      "tag": "#👥/personagem",
+      "pattern": ""
+    },
+    {
+      "folder": "Tarefas",
+      "tag": "✅/tarefa",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "Modelos"
+    }
+  ]
+}

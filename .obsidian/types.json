@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Data": "date",
+    "Status": "text",
+    "lastmod": "text",
+    "date": "date",
+    "pages": "number",
+    "estagio": "multitext",
+    "cenarios": "multitext",
+    "mood": "multitext",
+    "receitas": "text",
+    "despesas": "text"
+  }
+}
